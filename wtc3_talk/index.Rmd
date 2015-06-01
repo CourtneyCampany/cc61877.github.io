@@ -16,16 +16,17 @@ logo        : hie_logo.png
 
 ### They should act to maximize carbon gain, while minimizing costs 
 
-<IMG STYLE="position:absolute; TOP:375px; LEFT:400px; WIDTH:600px; HEIGHT:150px" SRC="assets/img/leafopt1.png">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:400px; WIDTH:600px; HEIGHT:150px" SRC="assets/img/leafopt1.png">
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:75px; WIDTH:300px; HEIGHT:300px" SRC="assets/img/stomata_optimal.png">
+<IMG STYLE="position:absolute; TOP:275px; LEFT:75px; WIDTH:300px; HEIGHT:300px" SRC="assets/img/stomata_optimal.png">
 
 --- .class #id bg:white
-## however...
+## However...
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="assets/img/leafopt2.png">
 
-<div style="position: absolute; left: 75px; top:625px"> 
+<div style="font-weight:bold; font-family:Times New Roman; font-style:italic; color:black;
+position: absolute; left: 75px; top:625px;"> 
     <p>So do all leaves act the same way?</p>
 </div> 
 
@@ -45,9 +46,10 @@ logo        : hie_logo.png
 ## Photosynthesis is a diffusion process
 <hr>
 <br />
-<br />
+
 ***=left
 
+<br />
 - Driven by resistances to CO<sub>2</sub> into leaves and then to the site of carboxylation
 - Stomatal (g<sub>s</sub>) and mesophyll (g<sub>m</sub>) conductance both limit photosynthesis 
 
@@ -55,7 +57,7 @@ logo        : hie_logo.png
 > - <strong>We know little about these relationships within canopies</strong> 
 
 ***=right
-![co2diffuse](assets/img/co2_diffusion.png)
+![co2diffuse](assets/img/gm.jpg)
 
 
 ---&twocol bg:white
@@ -71,11 +73,11 @@ logo        : hie_logo.png
 ***=right
 
 > - <strong>Is the whole canopy optimized to prevent water loss?</strong>
->   - Then   g<sub>s</sub> is  proportional to photosynthesis across across all leaves
+>   - Then   g<sub>s</sub> will be  proportional to photosynthesis across all leaves
 >   - Intercellular CO<sub>2</sub> (C<sub>i</sub>) should not differ between sun and shade leaves 
  
 > - <strong>What is the role of g<sub>m</sub> as its costs are less clear?</strong>
->   - If A<sub>max</sub> is <strong>↑</strong> in sun leaves then g<sub>m</sub> should also
+>   - If A<sub>max</sub> is <strong>↑</strong> in sun leaves then g<sub>m</sub> should be too
 >   - Supply line of CO<sub>2</sub> to the site of carboxylation 
 
 ---&twocol bg:white
@@ -98,21 +100,22 @@ logo        : hie_logo.png
 >  - Online discrimination with  TDL for g<sub>m</sub>
 
 ---&twocol bg:white
-## What's in a name? That which we call a ~~rose~~ <span style="color:green">LEAF</span>
+## What's in a name? That which we call a <span style="color:hotpink">~~Rose~~</span> <span style="color:green">Leaf</span>
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:350px; HEIGHT:350px" SRC="assets/img/leaves3.jpg">
+<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:350px; HEIGHT:350px" SRC="assets/img/leaves4.jpg">
 
 ***=right
 
 <br />
-<br />
+
 > - Measuring two extremes within a canopy
 >  - Sun leaves in top of canopy in full light
 >  - Shade leaves in bottom or middle canopy in full shade
 >  - Verified light enviroment with PAR sensor and ceptometer
 
-> - Leaves measured at current light + 'Lights On' for shade leaves
+> - Leaves measured at current light environment
+>  - 'Lights On' for shade leaves
 
 --- .class #id bg:white
 ## 75% reduction in direct light to shade leaves
@@ -136,8 +139,8 @@ logo        : hie_logo.png
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/narea.png">
 
-<div style="position: absolute; left: 75px; top:150px; z-index:10">
-    <p>ca. 25% higher Leaf Nitrogen</p>
+<div style="position: absolute; top:150px; z-index:10;">
+    <p STYLE="MARGIN-LEFT:AUTO;MARGIN-RIGHT:AUTO">ca. 25% higher Leaf Nitrogen</p>
 </div> 
 
 --- .class #id bg:white
@@ -173,49 +176,61 @@ logo        : hie_logo.png
 ***=left
 
 <br />
-> - <strong>Reject overall hypothesis that leaves are optimized throughout the canopy</strong>
->  - Sun leaves utlize higher N while minimizing water loss (#2714)
->  - g<sub>m</sub> proportional to photosynthesis... and also 'ready to go'
->  - g<sub>s</sub> and photosynthesis decoupled in shade
+> - <strong>Can we reject the hypothesis that leaves are optimized throughout the canopy (<span style="color:#cc2904; font-size:18pt">YES</span>)</strong> 
+>  - <p>Sun leaves utlize higher N while minimizing water loss <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
+>  - <p>g<sub>m</sub> proportional to photosynthesis... and also 'ready to go' <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
+>  - <p>g<sub>s</sub> and photosynthesis decoupled in shade <span style="color:#cc2904; font-size:18pt">(&#10008;)</span><p>
 
-> - <strong>Theoretical relationships between A and optimal resource distribution may not hold true for all leaves</strong>
-
+>- <strong>What's in a name?</strong> ~~By~~ ~~any~~ ~~other~~ ~~name~~ ~~would~~ ~~smell~~ ~~as~~ ~~sweet~~
 
 ---&twocol bg:white
-## Whats to gain by including shade leaves in our measurements?
+## Measuring shade leaves: Whats to gain?
 <hr>
 
  <IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
 
 ***=right
 
+<br />
 > - <strong>Why are shade leaves wasting water?</strong>
 >  - Are leaves prepared to 'slow' response of g<sub>s</sub>?
 >  - Is this associated with water transport somewhere else?
 
 > - <strong>Implications for models</strong>
 >  - How general are these findings?
->  - Are we under/over predicting carbon gain and water use?
+>  - Are we under/over predicting carbon gain or water use?
 
 ---.class #id bg:white
 
 <IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/questions2.jpg">
 
 --- .class #id bg:white
-##  Sun vs Shade: mesophyll conductance
+##  Mesophyll conductance and Photosynthesis
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_gm.png">
 
 --- .class #id bg:white
-## Sun vs Shade: Cc
+## Cc and Photosynthesis
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_cc.png">
 
 --- .class #id bg:white
-## Sun vs Shade: Leaf Ci, estimated from both δ13C and gas exchange, was higher in shade leaves than sun leaves.
+## Leaf Ci from gas exchange and leaf δ13C and gas exchange, was higher in shade leaves
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:50px; WIDTH:500px; HEIGHT:400px" SRC="assets/img/photo_ci.png">
-<IMG STYLE="position:absolute; TOP:175px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="assets/img/photo_cibar.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_ci.png">
+
+
+--- .class #id bg:white
+## Leaf Ci from gas exchange and leaf δ13C and gas exchange, was higher in shade leaves
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_cibar.png">
+
+--- .class #id bg:white
+## Total conductance to CO2 and Photosynthesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_gmgs.png">
