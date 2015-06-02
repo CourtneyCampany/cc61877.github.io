@@ -110,9 +110,9 @@ position: absolute; left: 75px; top:625px;">
 <br />
 
 > - Measuring two extremes within a canopy
->  - Sun leaves in top of canopy in full light
->  - Shade leaves in bottom or middle canopy in full shade
->  - Verified light enviroment with PAR sensor and ceptometer
+>  - Sun: top of canopy in full light
+>  - Shade: bottom or middle canopy in full shade
+>  - Verified with PAR sensor and ceptometer
 
 > - Leaves measured at current light environment
 >  - 'Lights On' for shade leaves
@@ -123,25 +123,15 @@ position: absolute; left: 75px; top:625px;">
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/ppfd.png">
 
---- .class #id bg:white
+
+--- &carousel bg:white 
 ## Photosynthesis reduced by ca. 40% in shade leaves
-<hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/aci_sunsha.png">
+*** {class: active, img: "assets/img/aci_sunsha.png"}
+ca. 20% higher Vc<sub>max</sub> and J<sub>max</sub>
 
-<div style="position: absolute; left: 75px; top:150px; z-index:10">
-    <p>ca. 20% higher Vc<sub>max</sub> and J<sub>max</sub></p>
-</div> 
-
---- .class #id bg:white
-## Photosynthesis reduced by ca. 40% in shade leaves
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/narea.png">
-
-<div style="position: absolute; top:150px; z-index:10;">
-    <p STYLE="MARGIN-LEFT:AUTO;MARGIN-RIGHT:AUTO">ca. 25% higher Leaf Nitrogen</p>
-</div> 
+*** {img: "assets/img/narea.png"}
+ca. 25% higher Leaf Nitrogen in sun
 
 --- .class #id bg:white
 ## g<sub>m</sub> appears  acclimated to light environment

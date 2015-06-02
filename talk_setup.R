@@ -10,7 +10,7 @@ devtools::install_github('muschellij2/slidify')
 install_github("slidifyLibraries", "ramnathv")
 library(slidify)
 
-author('wtc3_talk')
+#author('wtc3_talk')
 
 
 slidify("index.Rmd")
