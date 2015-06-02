@@ -15,3 +15,5 @@ library(slidify)
 
 slidify("index.Rmd")
 
+
+publish_github(wtc3_talk, cc61877)
