@@ -2,7 +2,7 @@
 title       : Are tree canopies optimized for carbon gain?
 subtitle    : How wasteful water use in shade leaves constrain theoretical relationships of photosynthesis and resource distribution in Eucalyptus trees.
 author      : Courtney Campany, Mark Tjoelker and Remko Duursma
-job         : PhD Candidate
+job         : http://cc61877.github.io/wtc3_talk/index.html#1
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -14,11 +14,13 @@ logo        : hie_logo.png
 ## Leaves are reported to have an optimized behavior
 <hr>
 
-### They should act to maximize carbon gain, while minimizing costs 
+### They should act to maximize carbon gain while minimizing costs 
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:400px; WIDTH:600px; HEIGHT:150px" SRC="assets/img/leafopt1.png">
 
 <IMG STYLE="position:absolute; TOP:275px; LEFT:75px; WIDTH:300px; HEIGHT:300px" SRC="assets/img/stomata_optimal.png">
+
+<DIV style="position: absolute; top:650px; left:45px; width:200px; height:25px; color:#5e5c5c">http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
 
 --- .class #id bg:white
 ## However...
@@ -67,7 +69,7 @@ logo        : hie_logo.png
 ***=right
 
 > - <strong>Is the whole canopy optimized to prevent water loss?</strong>
->   - Then   g<sub>s</sub> will be  proportional to photosynthesis across all leaves
+>   - Then g<sub>s</sub> will be  proportional to photosynthesis across all leaves
 >   - Intercellular CO<sub>2</sub> (C<sub>i</sub>) should not differ between sun and shade leaves 
  
 > - <strong>What is the role of g<sub>m</sub> as its costs are less clear?</strong>
@@ -93,11 +95,11 @@ logo        : hie_logo.png
 >  - Sun and shade leaves
 >  - Online discrimination with  TDL for g<sub>m</sub>
 
----&twocol bg:white
+---&twocol_left bg:white
 ## What's in a name? That which we call a <span style="color:hotpink">~~Rose~~</span> <span style="color:green">Leaf</span>
 <hr>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:150px; WIDTH:350px; HEIGHT:350px" SRC="assets/img/leaves4.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:350px; HEIGHT:350px" SRC="assets/img/leaves4.jpg">
 
 ***=right
 
@@ -124,7 +126,7 @@ logo        : hie_logo.png
 *** {class: active, img: "assets/img/white.png"}
 
 *** {img: "assets/img/aci_sunsha.png"}
-~Higher Vc<sub>max</sub> and J<sub>max</sub> in sun leaves
+Vc<sub>max</sub> and J<sub>max</sub> <strong>↑</strong> in sun leaves
 
 *** {img: "assets/img/narea.png"}
 ~25% higher Leaf Nitrogen in sun
@@ -185,6 +187,9 @@ logo        : hie_logo.png
 
 <IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/questions2.jpg">
 
+<DIV style="position: absolute; top:650px; left:45px; width:200px; height:25px; color:white">
+http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
+
 --- .class #id bg:white
 ##  Mesophyll conductance and Photosynthesis
 <hr>
@@ -215,4 +220,3 @@ logo        : hie_logo.png
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/lightson_gs.png">
-
