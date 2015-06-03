@@ -187,7 +187,7 @@ Vc<sub>max</sub> and J<sub>max</sub> <strong>↑</strong> in sun leaves
 
 <IMG STYLE="position:absolute; TOP:-10px; LEFT:0px; WIDTH:1200px; HEIGHT:800px" SRC="assets/img/questions2.jpg">
 
-<DIV style="position: absolute; top:650px; left:45px; width:200px; height:25px; color:white">
+<DIV style="position: absolute; top:25px; left:45px; width:200px; height:25px; color:white">
 http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
 
 --- .class #id bg:white
