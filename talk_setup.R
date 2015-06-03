@@ -13,7 +13,7 @@ library(slidify)
 #author('wtc3_talk')
 
 
-slidify("index.Rmd")
+slidify("wtc3_talk/index.Rmd")
 
 
-publish_github(wtc3_talk, cc61877)
+publish(title = 'WTC3_talk1', 'index.html', host = 'rpubs')

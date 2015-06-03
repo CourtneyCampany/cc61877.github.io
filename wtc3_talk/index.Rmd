@@ -25,16 +25,10 @@ logo        : hie_logo.png
 <hr>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="assets/img/leafopt2.png">
 
-<div style="font-weight:bold; font-family:Times New Roman; font-style:italic; color:black;
-position: absolute; left: 75px; top:625px;"> 
-    <p>So do all leaves act the same way?</p>
-</div> 
-
 --- .class #id bg:white
 ## For the canopy...Don't <span style="color:green">LEAF</span> things to chance
 <hr>
-
-![leaf_light](assets/img/leaf_light.jpg) 
+<center>![leafpic](assets/img/leaf_light.jpg)</center>
 
 > - Trees can't put all leaves in the sun
 >  - Drives changes in anatomy, morphology and physiology
@@ -51,7 +45,7 @@ position: absolute; left: 75px; top:625px;">
 
 <br />
 - Driven by resistances to CO<sub>2</sub> into leaves and then to the site of carboxylation
-- Stomatal (g<sub>s</sub>) and mesophyll (g<sub>m</sub>) conductance both limit photosynthesis 
+- Stomatal <strong>(g<sub>s</sub>)</strong> and mesophyll <strong>(g<sub>m</sub>)</strong> conductance both limit photosynthesis 
 
 > - Limitations result from costs and tradeoffs
 > - <strong>We know little about these relationships within canopies</strong> 
@@ -61,14 +55,14 @@ position: absolute; left: 75px; top:625px;">
 
 
 ---&twocol bg:white
-## So how optimized is the whole canopy, actually....
+##  Are tree canopies optimized for carbon gain?
 <hr>
 <br />
 ***=left
 ![canopypic](assets/img/euc_canopy2.jpg)
 
 > - <strong>Do light gradients define leaf properties</strong>
->   - Photosynthetic capacity (A<sub>max</sub>) and N should be <strong>↑</strong> in sun leaves
+>   - Photosynthetic capacity (<strong>A<sub>max</sub></strong>) and N should be <strong>↑</strong> in sun leaves
 
 ***=right
 
@@ -111,7 +105,7 @@ position: absolute; left: 75px; top:625px;">
 
 > - Measuring two extremes within a canopy
 >  - Sun: top of canopy in full light
->  - Shade: bottom or middle canopy in full shade
+>  - Shade: bottom and middle canopy in full shade
 >  - Verified with PAR sensor and ceptometer
 
 > - Leaves measured at current light environment
@@ -125,13 +119,15 @@ position: absolute; left: 75px; top:625px;">
 
 
 --- &carousel bg:white 
-## Photosynthesis reduced by ca. 40% in shade leaves
+## Photosynthesis reduced by ~40% in shade leaves
 
-*** {class: active, img: "assets/img/aci_sunsha.png"}
-ca. 20% higher Vc<sub>max</sub> and J<sub>max</sub>
+*** {class: active, img: "assets/img/white.png"}
+
+*** {img: "assets/img/aci_sunsha.png"}
+~Higher Vc<sub>max</sub> and J<sub>max</sub> in sun leaves
 
 *** {img: "assets/img/narea.png"}
-ca. 25% higher Leaf Nitrogen in sun
+~25% higher Leaf Nitrogen in sun
 
 --- .class #id bg:white
 ## g<sub>m</sub> appears  acclimated to light environment
@@ -145,39 +141,34 @@ ca. 25% higher Leaf Nitrogen in sun
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/lightson_bar.png">
 
---- .class #id bg:white
-##  g<sub>s</sub> and photosynthesis uncoupled in shade leaves
+--- &carousel_nocap bg:white 
+## Photosynthesis and g<sub>s</sub> uncoupled in shade leaves
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_cond.png">
+*** {class: active, img: "assets/img/photo_cond.png"}
 
---- .class #id bg:white
-##  g<sub>s</sub> and photosynthesis uncoupled in shade leaves
-<hr>
+*** {img: "assets/img/gsphoto_bar.png"}
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/gsphoto_bar.png">
 
 ---&twocol bg:white
 ## The need to investigate within the canopy
 <hr>
 
- <IMG STYLE="position:absolute; TOP:225px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
+ <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
 
 ***=left
 
 <br />
-> - <strong>Can we reject the hypothesis that leaves are optimized throughout the canopy (<span style="color:#cc2904; font-size:18pt">YES</span>)</strong> 
+> - <strong>Can we reject the hypothesis that leaves are optimized throughout the canopy?</strong> 
 >  - <p>Sun leaves utlize higher N while minimizing water loss <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
 >  - <p>g<sub>m</sub> proportional to photosynthesis... and also 'ready to go' <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
->  - <p>g<sub>s</sub> and photosynthesis decoupled in shade <span style="color:#cc2904; font-size:18pt">(&#10008;)</span><p>
+>  - <p>g<sub>s</sub> and photosynthesis decoupled in shade <span style="color:#cc2904; font-size:18pt">(&#10008;)</span><p>   
 
->- <strong>What's in a name?</strong> ~~By~~ ~~any~~ ~~other~~ ~~name~~ ~~would~~ ~~smell~~ ~~as~~ ~~sweet~~
-
----&twocol bg:white
+---&twocol_left bg:white
 ## Measuring shade leaves: Whats to gain?
 <hr>
 
- <IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
+ <IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
 
 ***=right
 
@@ -207,20 +198,21 @@ ca. 25% higher Leaf Nitrogen in sun
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_cc.png">
 
 --- .class #id bg:white
-## Leaf Ci from gas exchange and leaf δ13C and gas exchange, was higher in shade leaves
+## Leaf Ci from gas exchange higher in shade leaves
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_ci.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_ci.png">
 
 
 --- .class #id bg:white
-## Leaf Ci from gas exchange and leaf δ13C and gas exchange, was higher in shade leaves
+## Ci from leaf δ13C higher in shade leaves
 <hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_cibar.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_cibar.png">
 
 --- .class #id bg:white
-## Total conductance to CO2 and Photosynthesis
+## 'Lights On' stomatal conductance
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_gmgs.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/lightson_gs.png">
+
