@@ -1,7 +1,7 @@
 ---
 title       : Are tree canopies optimized for carbon gain?
 subtitle    : How wasteful water use in shade leaves constrain theoretical relationships of photosynthesis and resource distribution in Eucalyptus trees.
-author      : Courtney Campany, Mark Tjoelker and Remko Duursma
+author      : Courtney Campany, Belinda Medlyn, Mark Tjoelker, Susanne von Caemmerer and Remko Duursma
 job         : http://cc61877.github.io/wtc3_talk/index.html#1
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -57,6 +57,68 @@ logo        : hie_logo.png
 
 
 ---&twocol bg:white
+##  Leaves experience light fluctuations daily
+<hr>
+<br />
+<br />
+***=left
+![leafbubble](assets/img/lightbubbles.jpg)
+
+***=right
+
+> - Are shade leaves optimized for low light or to respond to occasional high light
+
+> - Beyond just photosynthetic capacity
+
+> - g<sub>s</sub> responds slowly
+
+> - g<sub>m</sub> anatomicaly constrained
+
+> - <strong>Unfortunately, not a enough empirical data available</strong>
+
+
+---&twocol bg:white
+## Sun and shade leaf physiology with the WTC3
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:450px; HEIGHT:500px" SRC="assets/img/chamb3.jpg">
+
+***=right
+
+<br />
+> - <strong>12 whole tree chambers</strong>
+>  - +3C ET treatments
+>  - Minimal treatment effects found
+
+> - <strong>Imposed drought in final months</strong>
+>  - Focus on well watered trees 
+
+> - <strong>Heaps of gas exchange over 6 months</strong>
+>  - Sun and shade leaves
+>  - Leaf temperature = air temperature
+>  - Tunable diode laser for g<sub>m</sub>
+
+---&twocol_left bg:white
+## What's in a name? That which we call a <span style="color:hotpink">~~Rose~~</span> <span style="color:green">Leaf</span>
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:350px; HEIGHT:450px" SRC="assets/img/licor.jpg">
+
+***=right
+
+<br />
+
+> - Measuring two canopy extremes
+>  - Sun: top of canopy in full light
+>  - Shade: bottom and middle canopy in full shade
+>  - Verified with quantum sensor and ceptometer
+
+> - Leaves measured at current light environment
+>  -Paired WTC compairsons
+> - 'Lights On' for shade leaves
+>  - Max sunfleck response
+
+---&twocol bg:white
 ##  Are tree canopies optimized for carbon gain?
 <hr>
 <br />
@@ -64,54 +126,16 @@ logo        : hie_logo.png
 ![canopypic](assets/img/euc_canopy2.jpg)
 
 > - <strong>Do light gradients define leaf properties</strong>
->   - Photosynthetic capacity (<strong>A<sub>max</sub></strong>) and N should be <strong>↑</strong> in sun leaves
+>   - Resources and photosynthetic capacity (<strong>A<sub>max</sub></strong>) should be <strong>↑</strong> in sun leaves
 
 ***=right
 
-> - <strong>Is the whole canopy optimized to prevent water loss?</strong>
+> - <strong>Is the canopy optimized to <strong>↑</strong> C gain while <strong>↓</strong> water loss?</strong>
 >   - Then g<sub>s</sub> will be  proportional to photosynthesis across all leaves
->   - Intercellular CO<sub>2</sub> (C<sub>i</sub>) should not differ between sun and shade leaves 
  
 > - <strong>What is the role of g<sub>m</sub> as its costs are less clear?</strong>
->   - If A<sub>max</sub> is <strong>↑</strong> in sun leaves then g<sub>m</sub> should be too
->   - Supply line of CO<sub>2</sub> to the site of carboxylation 
+>   - If A<sub>max</sub> is  in sun leaves then <strong>↑</strong>g<sub>m</sub> should be too
 
----&twocol bg:white
-## Sun and shade leaf physiology with the WTC3
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:75px; WIDTH:450px; HEIGHT:500px" SRC="assets/img/licor.jpg">
-
-***=right
-
-<br />
-> - <strong>12 tree chambers with 6 having elevated temperature treatment</strong>
->  - so far minimal treatment effects found
-
-> - <strong>Imposed drought in final months</strong>
->  - focus on well watered trees 
-
-> - <strong>Heaps of gas exchange over 6 months</strong>
->  - Sun and shade leaves
->  - Online discrimination with  TDL for g<sub>m</sub>
-
----&twocol_left bg:white
-## What's in a name? That which we call a <span style="color:hotpink">~~Rose~~</span> <span style="color:green">Leaf</span>
-<hr>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:125px; WIDTH:350px; HEIGHT:350px" SRC="assets/img/leaves4.jpg">
-
-***=right
-
-<br />
-
-> - Measuring two extremes within a canopy
->  - Sun: top of canopy in full light
->  - Shade: bottom and middle canopy in full shade
->  - Verified with PAR sensor and ceptometer
-
-> - Leaves measured at current light environment
->  - 'Lights On' for shade leaves
 
 --- .class #id bg:white
 ## 75% reduction in direct light to shade leaves
@@ -125,38 +149,39 @@ logo        : hie_logo.png
 
 *** {class: active, img: "assets/img/white.png"}
 
-*** {img: "assets/img/aci_sunsha.png"}
+*** {img: "assets/img/aci.png"}
 Vc<sub>max</sub> and J<sub>max</sub> <strong>↑</strong> in sun leaves
 
-*** {img: "assets/img/narea.png"}
+*** {img: "assets/img/photonitro.png"}
 ~25% higher Leaf Nitrogen in sun
 
 --- .class #id bg:white
-## g<sub>m</sub> appears  acclimated to light environment
+## Shade leaves exhibited wasteful water
 <hr>
 
-<IMG STYLE="position:absolute; TOP: 175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/gmphoto_bar.png">
+<IMG STYLE="position:absolute; TOP: 175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/ags2.png">
 
 --- .class #id bg:white
-## 'Lights On' stimulation of g<sub>m</sub> and photosynthesis 
+## <strong>↓</strong> WUE from sub-optimal behavior of g<sub>s</sub>
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/lightson_bar.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/wue.png">
 
 --- &carousel_nocap bg:white 
-## Photosynthesis and g<sub>s</sub> uncoupled in shade leaves
+## Does the answer lie within sunflecks?
 <hr>
 
-*** {class: active, img: "assets/img/photo_cond.png"}
+*** {class: active, img: "assets/img/ags1.png"}
+Shade leaves = sun leaves
 
-*** {img: "assets/img/gsphoto_bar.png"}
-
+*** {img: "assets/img/agsbar.png"}
+Do shade leaves 'lie in wait'?
 
 ---&twocol bg:white
-## The need to investigate within the canopy
+## Take Home Messages: The need to investigate within the canopy
 <hr>
 
- <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
+ <IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
 
 ***=left
 
@@ -164,24 +189,26 @@ Vc<sub>max</sub> and J<sub>max</sub> <strong>↑</strong> in sun leaves
 > - <strong>Can we reject the hypothesis that leaves are optimized throughout the canopy?</strong> 
 >  - <p>Sun leaves utlize higher N while minimizing water loss <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
 >  - <p>g<sub>m</sub> proportional to photosynthesis... and also 'ready to go' <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
->  - <p>g<sub>s</sub> and photosynthesis decoupled in shade <span style="color:#cc2904; font-size:18pt">(&#10008;)</span><p>   
+>  - <p>g<sub>s</sub> and photosynthesis decoupled in shade <span style="color:#cc2904; font-size:18pt">(&#10008;)</span><p> 
+
+ <IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:150px; HEIGHT:150px" SRC="assets/img/reject.jpg">
 
 ---&twocol_left bg:white
 ## Measuring shade leaves: Whats to gain?
 <hr>
 
- <IMG STYLE="position:absolute; TOP:200px; LEFT:175px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
+ <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
 
 ***=right
 
 <br />
 > - <strong>Why are shade leaves wasting water?</strong>
->  - Are leaves prepared to 'slow' response of g<sub>s</sub>?
->  - Is this associated with water transport somewhere else?
+>  - Leaves prepared to 'slow' response of g<sub>s</sub>?
+>  - Economy of physiology
+>  - <strong>↑</strong> water loss to potentially turn shade leaves into sun leaves?
+>  - g<sub>m</sub> is the key
 
-> - <strong>Implications for models</strong>
->  - How general are these findings?
->  - Are we under/over predicting carbon gain or water use?
+> - <strong>Implications for scaling leaf level measurments to the canopy</strong>
 
 ---.class #id bg:white
 
