@@ -191,8 +191,6 @@ Do shade leaves 'lie in wait'?
 >  - <p>g<sub>m</sub> proportional to photosynthesis... and also 'ready to go' <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
 >  - <p>g<sub>s</sub> and photosynthesis decoupled in shade <span style="color:#cc2904; font-size:18pt">(&#10008;)</span><p> 
 
- <IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:150px; HEIGHT:150px" SRC="assets/img/reject.jpg">
-
 ---&twocol_left bg:white
 ## Measuring shade leaves: Whats to gain?
 <hr>
