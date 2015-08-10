@@ -32,7 +32,7 @@ logo        : hie_logo.png
 <hr>
 <center>![leafpic](assets/img/leaf_light.jpg)</center>
 
-> - Trees can't put all leaves in the sun
+> - <strong>Trees can't put all leaves in the sun</strong>
 >  - Drives changes in anatomy, morphology and physiology
 >  - Affects canopy resource distribution
 
@@ -74,7 +74,7 @@ logo        : hie_logo.png
 
 > - g<sub>m</sub> anatomicaly constrained
 
-> - <strong>Unfortunately, not a enough empirical data available</strong>
+> - <strong>Unfortunately, not enough empirical data available</strong>
 
 
 ---&twocol bg:white
@@ -87,7 +87,7 @@ logo        : hie_logo.png
 
 <br />
 > - <strong>12 whole tree chambers</strong>
->  - +3C ET treatments
+>  - +3&deg;C ET treatments
 >  - Minimal treatment effects found
 
 > - <strong>Imposed drought in final months</strong>
@@ -114,7 +114,7 @@ logo        : hie_logo.png
 >  - Verified with quantum sensor and ceptometer
 
 > - Leaves measured at current light environment
->  -Paired WTC compairsons
+>  - Paired WTC compairsons
 > - 'Lights On' for shade leaves
 >  - Max sunfleck response
 
@@ -145,7 +145,7 @@ logo        : hie_logo.png
 
 
 --- &carousel bg:white 
-## Photosynthesis reduced by ~40% in shade leaves
+## Photosynthetic capacity reduced in shade leaves
 
 *** {class: active, img: "assets/img/white.png"}
 
@@ -178,7 +178,7 @@ Shade leaves = sun leaves
 Do shade leaves 'lie in wait'?
 
 ---&twocol bg:white
-## Take Home Messages: The need to investigate within the canopy
+## The need to investigate within the canopy
 <hr>
 
  <IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
@@ -191,8 +191,6 @@ Do shade leaves 'lie in wait'?
 >  - <p>g<sub>m</sub> proportional to photosynthesis... and also 'ready to go' <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
 >  - <p>g<sub>s</sub> and photosynthesis decoupled in shade <span style="color:#cc2904; font-size:18pt">(&#10008;)</span><p> 
 
- <IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:150px; HEIGHT:150px" SRC="assets/img/reject.jpg">
-
 ---&twocol_left bg:white
 ## Measuring shade leaves: Whats to gain?
 <hr>
@@ -203,6 +201,7 @@ Do shade leaves 'lie in wait'?
 
 <br />
 > - <strong>Why are shade leaves wasting water?</strong>
+
 >  - Leaves prepared to 'slow' response of g<sub>s</sub>?
 >  - Economy of physiology
 >  - <strong>↑</strong> water loss to potentially turn shade leaves into sun leaves?
