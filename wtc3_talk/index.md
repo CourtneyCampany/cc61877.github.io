@@ -32,7 +32,7 @@ logo        : hie_logo.png
 <hr>
 <center>![leafpic](assets/img/leaf_light.jpg)</center>
 
-> - Trees can't put all leaves in the sun
+> - <strong>Trees can't put all leaves in the sun</strong>
 >  - Drives changes in anatomy, morphology and physiology
 >  - Affects canopy resource distribution
 
@@ -66,7 +66,7 @@ logo        : hie_logo.png
 
 ***=right
 
-> - Are shade leaves optimized for low light or to respond to occasional high light
+> - <strong>Are shade leaves optimized for low light or to respond to occasional high light</strong>
 
 > - Beyond just photosynthetic capacity
 
@@ -108,14 +108,14 @@ logo        : hie_logo.png
 
 <br />
 
-> - Measuring two canopy extremes
+> - <strong>Measuring two canopy extremes</strong>
 >  - Sun: top of canopy in full light
 >  - Shade: bottom and middle canopy in full shade
 >  - Verified with quantum sensor and ceptometer
 
-> - Leaves measured at current light environment
->  -Paired WTC compairsons
-> - 'Lights On' for shade leaves
+> - <strong>Leaves measured at current light environment</strong>
+>  - Paired WTC compairsons
+> - <strong>'Lights On' for shade leaves</strong>
 >  - Max sunfleck response
 
 ---&twocol bg:white
@@ -190,8 +190,6 @@ Do shade leaves 'lie in wait'?
 >  - <p>Sun leaves utlize higher N while minimizing water loss <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
 >  - <p>g<sub>m</sub> proportional to photosynthesis... and also 'ready to go' <span style="color:#cc2904; font-size:18pt">(&#10003;)</span><p>
 >  - <p>g<sub>s</sub> and photosynthesis decoupled in shade <span style="color:#cc2904; font-size:18pt">(&#10008;)</span><p> 
-
- <IMG STYLE="position:absolute; TOP:350px; LEFT:550px; WIDTH:150px; HEIGHT:150px" SRC="assets/img/reject.jpg">
 
 ---&twocol_left bg:white
 ## Measuring shade leaves: Whats to gain?

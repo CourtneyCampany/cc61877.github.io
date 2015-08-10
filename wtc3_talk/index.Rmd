@@ -32,7 +32,7 @@ logo        : hie_logo.png
 <hr>
 <center>![leafpic](assets/img/leaf_light.jpg)</center>
 
-> - Trees can't put all leaves in the sun
+> - <strong>Trees can't put all leaves in the sun</strong>
 >  - Drives changes in anatomy, morphology and physiology
 >  - Affects canopy resource distribution
 
@@ -66,7 +66,7 @@ logo        : hie_logo.png
 
 ***=right
 
-> - Are shade leaves optimized for low light or to respond to occasional high light
+> - <strong>Are shade leaves optimized for low light or to respond to occasional high light</strong>
 
 > - Beyond just photosynthetic capacity
 
@@ -108,14 +108,14 @@ logo        : hie_logo.png
 
 <br />
 
-> - Measuring two canopy extremes
+> - <strong>Measuring two canopy extremes</strong>
 >  - Sun: top of canopy in full light
 >  - Shade: bottom and middle canopy in full shade
 >  - Verified with quantum sensor and ceptometer
 
-> - Leaves measured at current light environment
->  -Paired WTC compairsons
-> - 'Lights On' for shade leaves
+> - <strong>Leaves measured at current light environment</strong>
+>  - Paired WTC compairsons
+> - <strong>'Lights On' for shade leaves</strong>
 >  - Max sunfleck response
 
 ---&twocol bg:white
@@ -145,7 +145,7 @@ logo        : hie_logo.png
 
 
 --- &carousel bg:white 
-## Photosynthesis reduced by ~40% in shade leaves
+## Photosynthetic capacity reduced in shade leaves
 
 *** {class: active, img: "assets/img/white.png"}
 
@@ -178,7 +178,7 @@ Shade leaves = sun leaves
 Do shade leaves 'lie in wait'?
 
 ---&twocol bg:white
-## Take Home Messages: The need to investigate within the canopy
+## The need to investigate within the canopy
 <hr>
 
  <IMG STYLE="position:absolute; TOP:200px; LEFT:700px; WIDTH:250px; HEIGHT:450px" SRC="assets/img/tree.png">
