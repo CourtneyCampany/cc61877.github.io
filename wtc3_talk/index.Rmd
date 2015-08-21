@@ -241,8 +241,4 @@ http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_cibar.png">
 
---- .class #id bg:white
-## 'Lights On' stomatal conductance
-<hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/lightson_gs.png">
