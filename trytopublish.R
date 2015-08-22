@@ -15,12 +15,13 @@ library(slidify)
 
 slidify("wtc3_talk/index.Rmd")
 
-
 ####need Rcurl package to publish to 
-library(RCurl)
-
-publish_rpubs(title = 'Do Shade Leaves Lie in Wait?', 'WTC3_talk/index.html')
 
 
-##from cran or from sourced function (gives same error as above)
+
+
+publish_rpubs(title = 'WTC3_talk', 'index.html')
+
+
+
 rpubsUpload("WTC3_campany","wtc3_talk/index.html")
