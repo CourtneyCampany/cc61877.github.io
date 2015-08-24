@@ -249,13 +249,6 @@ click through for additional figures</DIV>
 
 
 --- .class #id bg:white
-## WUE with sunflecks
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/WUE2.png">
-
-
---- .class #id bg:white
 ## Leaf 13C and leaf nitrogen
 <hr>
 
@@ -269,3 +262,8 @@ click through for additional figures</DIV>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/ciccbar.png">
 
 
+--- .class #id bg:white
+## WUE with sunflecks
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/WUE2.png">
