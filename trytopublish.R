@@ -20,7 +20,7 @@ slidify("wtc3_talk/index.Rmd")
 
 
 
-publish_rpubs(title = 'WTC3_talk', 'index.html')
+publish_rpubs(title = 'WTC3_talk', 'WTC3_talk/index.html')
 
 
 
